@@ -2,8 +2,8 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme 
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Ján Mikulec]
+description: [I am currently a PhD candidate at [Faculty of Informatics and Information Technologies](https://www.fiit.stuba.sk/), [Slovak University of Technology](https://www.stuba.sk/english.html?page_id=132), Bratislava, Slovakia.
 
-show_downloads: [true]
+show_downloads: [false]
 google_analytics: [Your Google Analytics tracking ID]
