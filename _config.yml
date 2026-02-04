@@ -4,13 +4,5 @@ plugins:
 
 logo: /photo.jpg
 
-links: 
-  - name: Email
-    url: test
-  - name: GitHub
-    url: test
-  - name: LinkedIn
-    url: test
-
 show_downloads: false
 google_analytics: Your Google Analytics tracking ID
