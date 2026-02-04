@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme 
 
 title: [Ján Mikulec]
-description: [I am currently a PhD candidate at [Faculty of Informatics and Information Technologies](https://www.fiit.stuba.sk/), [Slovak University of Technology](https://www.stuba.sk/english.html?page_id=132), Bratislava, Slovakia.]
+description: [I am currently a PhD candidate at Faculty of Informatics and Information Technologies, Slovak University of Technology, Bratislava, Slovakia.]
 
 show_downloads: [false]
 google_analytics: [Your Google Analytics tracking ID]
