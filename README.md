@@ -23,12 +23,14 @@ I study side-channel leakages in neural networks inference and analyze performan
 
 For academic and research-related inquiries, please contact me via email.
 
-<a href ="jan.mikulec@stuba.sk">
-  <img src="mail.png" alt="jan.mikulec@stuba.sk" width="24"/>
-</a>
-<a href ="jan.mikulec@stuba.sk">
-  <img src="linkedin.png" alt="jan.mikulec@stuba.sk" width="24"/>
-</a>
-<a href ="jan.mikulec@stuba.sk">
-  <img src="github.png" alt="jan.mikulec@stuba.sk" width="24"/>
-</a>
+<div style="text-align: right; margin-top:1.5rem;">
+  <a href ="mailto:jan.mikulec@stuba.sk">
+    <img src="mail.png" alt="jan.mikulec@stuba.sk" width="24"/>
+  </a>
+  <a href ="https://www.linkedin.com/in/j%C3%A1n-mikulec-a7b4781a4/">
+    <img src="linkedin.png" alt="jan.mikulec@stuba.sk" width="24"/>
+  </a>
+  <a href ="https://github.com/janmikulec">
+    <img src="github.png" alt="jan.mikulec@stuba.sk" width="24"/>
+  </a>
+</div>
