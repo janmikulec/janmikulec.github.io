@@ -13,8 +13,8 @@ I study side-channel leakages in neural networks inference and analyze performan
 
 ## Theses 
 
-- Bachelor's Thesis:
-- Master's Thesis:
+- Bachelor's Thesis: Post-Quantum Cryptography, 2022
+- Master's Thesis: Implementation of the Condenser PBJ encryption machine, 2025
 
 ## Teaching
 
