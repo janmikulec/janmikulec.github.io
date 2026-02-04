@@ -24,5 +24,5 @@ I study side-channel leakages in neural networks inference and analyze performan
 For academic and research-related inquiries, please contact me via email.
 
 <a href ="jan.mikulec@stuba.sk">
-  <img src="photo.jpg" alt="Email" width="24"/>
+  <img src="photo.jpg" alt="jan.mikulec@stuba.sk" width="24"/>
 </a>
